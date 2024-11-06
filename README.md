@@ -25,7 +25,7 @@ Aplikasi Konversi Suhu adalah program berbasis GUI yang memungkinkan pengguna me
 7.     Konversi dua arah antar skala suhu
 
 ## Demo
-![App Screenshot](https://github.com/rafkrnwnworkspace/AplikasiKonversiSuhu/blob/edf57a33dec218ccc110a9a54ffb9abd0072a82c/pic/bukti.gif)
+![App Screenshot](https://github.com/rafkrnwnworkspace/AplikasiKonversiSuhu/blob/7fdd390e17506bd62a98e29f4483c1b182a31d4a/pic/buktifull.gif)
 
 # Pembuat Aplikasi
  Rafli Arizqi Kurniawan ( 2210010611 ) 
