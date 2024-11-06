@@ -381,7 +381,7 @@ public class KonversiSuhu extends javax.swing.JFrame {
     }//GEN-LAST:event_txtSuhuActionPerformed
 
     private void btnKeluarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnKeluarActionPerformed
-        // TODO add your handling code here:
+        System.exit(0);
     }//GEN-LAST:event_btnKeluarActionPerformed
 
     /**
